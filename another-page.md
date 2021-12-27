@@ -26,9 +26,5 @@ Bsc. Information Technology
 ### Skills:
 HTML, Microsoft productivity software(Word, excel, etc), Adobe Creative Suite.
 
-## Socials:
-[email ](sadeeyamaikano@icloud.com)
-
-[instagram](__sadeeyahh.m)
 
 [back](./)
