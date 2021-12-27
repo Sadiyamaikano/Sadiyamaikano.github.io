@@ -1,5 +1,5 @@
-title: **PROJECT**
+title: PROJECT
 description: A Personal Blog
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
