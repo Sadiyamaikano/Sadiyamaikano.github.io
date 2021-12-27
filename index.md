@@ -9,7 +9,7 @@ layout: default
 
 
 
-### About Me.
+### Info.
 
 <dl>
 <dt>Name</dt>
